@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Description>This package contains source code for an adaptive computing framework .Adaptive Computing Framework .NET Core Version.</Description>
+    <Copyright>© Rafael Pérez 2021</Copyright>
+    <PackageIcon>555dc273-5364-403f-b0f2-cf2a1cb9963b.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageTags>C#, .NET Core, Genetic Algorithms, Adaptive Computing</PackageTags>
+    <PackageReleaseNotes>This is a .NET Core release of the previously uploaded AdaptiveComputingFramework. The previous version can still be found here: https://www.nuget.org/packages/AdaptiveComputingFramework/</PackageReleaseNotes>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>MIT.txt</PackageLicenseFile>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Authors>Rafael Pérez</Authors>
+    <Company>Adaptive, LLC</Company>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>

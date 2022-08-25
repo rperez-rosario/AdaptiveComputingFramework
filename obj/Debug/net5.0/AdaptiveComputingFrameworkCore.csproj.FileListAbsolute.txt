@@ -1,0 +1,12 @@
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\bin\Debug\net5.0\AdaptiveComputingFrameworkCore.deps.json
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\bin\Debug\net5.0\AdaptiveComputingFrameworkCore.dll
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\bin\Debug\net5.0\ref\AdaptiveComputingFrameworkCore.dll
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\bin\Debug\net5.0\AdaptiveComputingFrameworkCore.pdb
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\obj\Debug\net5.0\AdaptiveComputingFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\obj\Debug\net5.0\AdaptiveComputingFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\obj\Debug\net5.0\AdaptiveComputingFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\obj\Debug\net5.0\AdaptiveComputingFrameworkCore.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\obj\Debug\net5.0\AdaptiveComputingFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\obj\Debug\net5.0\AdaptiveComputingFrameworkCore.dll
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\obj\Debug\net5.0\ref\AdaptiveComputingFrameworkCore.dll
+C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\obj\Debug\net5.0\AdaptiveComputingFrameworkCore.pdb

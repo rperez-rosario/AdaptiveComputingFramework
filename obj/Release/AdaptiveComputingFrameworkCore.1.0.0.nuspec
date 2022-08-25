@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdaptiveComputingFrameworkCore</id>
+    <version>1.0.0</version>
+    <authors>Rafael Pérez</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">MIT.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>555dc273-5364-403f-b0f2-cf2a1cb9963b.png</icon>
+    <description>This package contains source code for an adaptive computing framework .Adaptive Computing Framework .NET Core Version.</description>
+    <releaseNotes>This is a .NET Core release of the previously uploaded AdaptiveComputingFramework. The previous version can still be found here: https://www.nuget.org/packages/AdaptiveComputingFramework/</releaseNotes>
+    <copyright>© Rafael Pérez 2021</copyright>
+    <tags>C#, .NET Core, Genetic Algorithms, Adaptive Computing</tags>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rafael\source\repos\Adaptive\AdaptiveComputingFrameworkCore\bin\Release\net5.0\AdaptiveComputingFrameworkCore.dll" target="lib\net5.0\AdaptiveComputingFrameworkCore.dll" />
+    <file src="C:\Users\Rafael\Downloads\555dc273-5364-403f-b0f2-cf2a1cb9963b.png" target="555dc273-5364-403f-b0f2-cf2a1cb9963b.png" />
+    <file src="C:\Users\Rafael\OneDrive\Desktop\MIT.txt" target="MIT.txt" />
+  </files>
+</package>
