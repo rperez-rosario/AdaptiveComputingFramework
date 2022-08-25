@@ -1,5 +1,5 @@
 # AdaptiveComputingFramework
-This repository contains source code for an adaptive computing framework.
+This repository contains source code for a minimalist, adaptive computing framework.
 
 Nuget package at: https://www.nuget.org/packages/AdaptiveComputingFrameworkCore
 
