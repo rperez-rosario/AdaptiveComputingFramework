@@ -1,6 +1,8 @@
 # AdaptiveComputingFramework
 This package contains source code for an adaptive computing framework .Adaptive Computing Framework .NET Core Version.
 
+Nuget package at: https://www.nuget.org/packages/AdaptiveComputingFrameworkCore
+
 "Living organisms are consummate problem solvers. They exhibit a versatility that puts the best computer programs to shame. This observation is
 especially galling for computer scientists, who may spend months or years of intellectual effort on an algorithm, whereas organisms come by their abilities
 through the apparently undirected mechanism of evolution and natural selection.
