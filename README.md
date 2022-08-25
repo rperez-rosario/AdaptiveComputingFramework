@@ -1,5 +1,5 @@
 # AdaptiveComputingFramework
-This package contains source code for an adaptive computing framework .Adaptive Computing Framework .NET Core Version.
+This repository contains source code for an adaptive computing framework.
 
 Nuget package at: https://www.nuget.org/packages/AdaptiveComputingFrameworkCore
 
@@ -16,4 +16,3 @@ researchers probe the natural selection of programs under controlled an well-und
 insight into the details of how life and intelligence evolve in the natural world." 
 
 https://www.cc.gatech.edu/~turk/bio_sim/articles/genetic_algorithm.pdf (Retrieved 10/17/2018.)
-
