@@ -1,7 +1,7 @@
 # AdaptiveComputingFramework
 This repository contains source code for a minimalist, adaptive computing framework.
 
-Nuget package at: https://www.nuget.org/packages/AdaptiveComputingFrameworkCore
+Download compiled Nuget package at: https://www.nuget.org/packages/AdaptiveComputingFrameworkCore
 
 "Living organisms are consummate problem solvers. They exhibit a versatility that puts the best computer programs to shame. This observation is
 especially galling for computer scientists, who may spend months or years of intellectual effort on an algorithm, whereas organisms come by their abilities
