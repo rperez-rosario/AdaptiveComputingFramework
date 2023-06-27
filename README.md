@@ -16,3 +16,5 @@ researchers probe the natural selection of programs under controlled an well-und
 insight into the details of how life and intelligence evolve in the natural world."</i> 
 
 https://www.cc.gatech.edu/~turk/bio_sim/articles/genetic_algorithm.pdf (Retrieved 10/17/2018.)
+
+<img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/c35e1c63-1040-43cb-b6bb-0509539f9538">
