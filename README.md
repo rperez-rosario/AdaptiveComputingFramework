@@ -17,4 +17,5 @@ insight into the details of how life and intelligence evolve in the natural worl
 
 https://www.cc.gatech.edu/~turk/bio_sim/articles/genetic_algorithm.pdf (Retrieved 10/17/2018.)
 
-<img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/c35e1c63-1040-43cb-b6bb-0509539f9538">
+<img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/8a0a1f98-191b-4cce-8731-475f24a71c5e">
+
