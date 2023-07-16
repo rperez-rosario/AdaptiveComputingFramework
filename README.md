@@ -17,6 +17,11 @@ insight into the details of how life and intelligence evolve in the natural worl
 
 https://www.cc.gatech.edu/~turk/bio_sim/articles/genetic_algorithm.pdf (Retrieved 10/17/2018.)
 
+Framework Class Diagram<br/>
+<img width="613" alt="ACF Class Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/9658fc7c-6e0d-47be-8956-e09e3e0edad5">
+<br/><br/>
+Framework Sequence Diagram<br/>
 <img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/8a0a1f98-191b-4cce-8731-475f24a71c5e">
-
-![Framework Class Diagram](https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/9658fc7c-6e0d-47be-8956-e09e3e0edad5)
+<br/><br/>
+Example Application Class Diagram<br/>
+<img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/5e8bf984-8cfc-4f48-a015-f9910e67a553">
