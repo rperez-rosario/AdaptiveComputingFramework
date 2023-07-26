@@ -21,10 +21,10 @@ Framework Class Diagram<br/>
 <img width="613" alt="ACF Class Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/9658fc7c-6e0d-47be-8956-e09e3e0edad5">
 <br/><br/>
 Framework Sequence Diagram<br/>
-<img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/8a0a1f98-191b-4cce-8731-475f24a71c5e">
+<img width="613" alt="Framework Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/8a0a1f98-191b-4cce-8731-475f24a71c5e">
 <br/><br/>
 Example Application Class Diagram<br/>
-<img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/5e8bf984-8cfc-4f48-a015-f9910e67a553">
+<img width="613" alt="Example Application Class Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/5e8bf984-8cfc-4f48-a015-f9910e67a553">
 <br/><br/>
-Example Fitness Function Diagram and Explanation
-<img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/11c4e6f7-ad0a-4037-aa6b-ac0c04db2a83">
+Example Fitness Function Diagram and Explanation<br/>
+<img width="613" alt="Example Fitness Function Diagram and Explanation" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/11c4e6f7-ad0a-4037-aa6b-ac0c04db2a83">
