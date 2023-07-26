@@ -25,3 +25,6 @@ Framework Sequence Diagram<br/>
 <br/><br/>
 Example Application Class Diagram<br/>
 <img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/5e8bf984-8cfc-4f48-a015-f9910e67a553">
+<br/><br/>
+Example Fitness Function Diagram and Explanation
+<img width="613" alt="ACF UML Sequence Diagram" src="https://github.com/rperez-rosario/AdaptiveComputingFramework/assets/24212098/11c4e6f7-ad0a-4037-aa6b-ac0c04db2a83">
